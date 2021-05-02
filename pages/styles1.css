@@ -1,0 +1,58 @@
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.card-img-top {
+  width: 290px;
+  height: 350px;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: #fff;
+}
+
+#dropdownMenuButton {
+  background-color: #303233;
+}
+
+a {
+  margin: 1rem;
+}
+
+/* The alert message box */
+#alert {
+  padding: 20px;
+  background-color: #303233; /* Red */
+  color: white;
+  margin-bottom: 15px;
+  display: none;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
+
+.nav-item:hover {
+  background-color: #b0b6b9;
+}

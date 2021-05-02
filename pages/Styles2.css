@@ -1,0 +1,44 @@
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.card-img-top {
+  width: 290px;
+  height: 350px;
+}
+
+.nav-item:hover {
+  background-color: #b0b6b9;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: #fff;
+}
+
+a {
+  margin: 1rem;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  border: none;
+  margin-top: 2rem;
+  border-bottom: 1px solid black;
+}
+textarea[type="text"] {
+  border: none;
+  margin-top: 2rem;
+  border: 1px solid black;
+}
+.submit {
+  margin-top: 2rem;
+}
